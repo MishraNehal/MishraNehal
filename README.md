@@ -22,8 +22,7 @@
 - 🎓 Pursuing **B.Tech CSE (AI & ML)** @ AITR, Indore — RGTU Bhopal *(2023–27)*
 - 🤖 Passionate about **Agentic AI**, **RAG Systems**, **LLMs**, and **Generative AI**
 - 🔭 Currently working on projects in **Agentic AI** and **Data Science**
-- 🏛️ **IEEE Member, SIGHT AITR**
-- 🎵 Retro music enthusiast
+- 🏛️ **IEEE Member**
 - 💬 Ask me about **Python, LLMs, RAG, Multi-Agent Systems, FastAPI**
 - 📫 Reach me at **nehalmishra230783@acropolis.in**
 - 🤝 Open to **Internships** & **Research Collaborations**
@@ -44,9 +43,15 @@
 ### 🤖 AI / ML / GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-6366F1?style=for-the-badge&logoColor=white)
+![Open Source LLMs](https://img.shields.io/badge/Open%20Source%20LLMs-238636?style=for-the-badge&logoColor=white)
+![Closed Source LLMs](https://img.shields.io/badge/Closed%20Source%20LLMs-412991?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
