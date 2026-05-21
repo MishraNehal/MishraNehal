@@ -1,74 +1,69 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nehal+Mishra+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Python+Developer;Building+Agentic+AI+%26+RAG+Systems;NPTEL+Superstar+%7C+Hackathon+Runner-Up)](https://git.io/typing-svg)
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nehal+Mishra+%F0%9F%91%8B;AI+%2F+ML+%2F+GenAI+Engineer;Building+Agentic+AI+%26+RAG+Systems;LLM+Explorer+%7C+Python+Developer)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MishraNehal&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views" />
+<br/>
+
+*Driven Python developer building intelligent, real-world AI systems — from Agentic pipelines to RAG architectures.*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-mishra-263a97324/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MishraNehal/)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalmishra230783@acropolis.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=MishraNehal&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/MishraNehal/)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🙋‍♀️ A Little Bit About Me
 
-```python
-nehal = {
-    "name"       : "Nehal Mishra",
-    "role"       : "AI/ML Developer & Python Engineer",
-    "education"  : "B.Tech CSE (AI & ML) @ AITR, Indore — RGTU Bhopal (2023–27)",
-    "focus"      : ["Agentic AI", "RAG Systems", "LLMs", "Multi-Agent Platforms"],
-    "building"   : "Krishi Mitram — AI assistant for farmers via WhatsApp",
-    "ieee"       : "Advisor, IEEE SIGHT AITR",
-    "fun_fact"   : "Taekwondo practitioner 🥋 & retro music fan 🎵",
-}
-```
+- 🎓 Pursuing **B.Tech CSE (AI & ML)** @ AITR, Indore — RGTU Bhopal *(2023–27)*
+- 🤖 Passionate about **Agentic AI**, **RAG Systems**, **LLMs**, and **Generative AI**
+- 🌱 Currently deepening expertise in **LlamaIndex**, **Advanced Agentic Frameworks** & **MLOps**
+- 🔭 Always exploring the cutting edge of **Data Science** and **AI research**
+- 🏛️ **Advisor, IEEE SIGHT AITR** — fostering tech for social good
+- 🥋 Taekwondo & Karate practitioner | 🎵 Retro music enthusiast
+- 💬 Ask me about **Python, LLMs, RAG, Multi-Agent Systems, FastAPI**
+- 📫 Reach me at **nehalmishra230783@acropolis.in**
+- 🤝 Open to **Internships** & **Research Collaborations**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-**Languages & Core**
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🤖 AI / ML / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**AI / ML / GenAI**
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=crewai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 [Krishi Mitram](https://github.com/MishraNehal/) — Agentic AI Agricultural Assistant
-> Real-time weather, crop advisory, government scheme, and mandi price insights for farmers via **WhatsApp**, powered by **LLMs + RAG**.
-
-`Python` `LangChain` `RAG` `Agentic AI` `WhatsApp API` — *Feb 2026 – Present*
-
----
-
-### 🤖 [Anvay](https://github.com/MishraNehal/) — Multi-Agent AI Automation Platform
-> Multi-agent platform automating **customer interactions, bookings, and lead management** for MSMEs across multiple channels.
-
-`Python` `CrewAI` `LangGraph` `FastAPI` `Multi-Agent` — *Hackathon Project (Apr 2025)*
-
----
-
-### 💡 [Lumi](https://github.com/MishraNehal/) — Multi-Source RAG Knowledge Assistant
-> AI knowledge assistant with **RAG, multi-source document ingestion**, and source-aware question answering.
-
-`FastAPI` `LangChain` `RAG` `Python` — *Nov 2025 – Jan 2026*
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -76,44 +71,42 @@ nehal = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MishraNehal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraNehal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MishraNehal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraNehal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MishraNehal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MishraNehal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🌱 Currently Exploring
 
-| 🥈 | 1st Runner-up — **Navonmesh National Level Hackathon**, Raipur |
-|---|---|
-| ⭐ | **NPTEL Superstar & Domain Scholar** — Top 2% in Python for Data Science & Java |
-| 🎓 | NPTEL: LLMs, Machine Learning (Top 5%), DSA, Modern C++ |
-| 🏢 | Infosys Springboard: Front End Web Dev · Data Science Foundation |
-| 📊 | Deloitte Australia (Forage): Data Analytics & Technology Simulation |
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to **internships**, **research collaborations**, and **AI/ML projects**.
-
-[![Email](https://img.shields.io/badge/Email-nehalmishra230783%40acropolis.in-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalmishra230783@acropolis.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-mishra-263a97324/)
-
-</div>
+```text
+🔹 LlamaIndex          — advanced document indexing & retrieval
+🔹 Agentic AI          — autonomous, self-directed AI pipelines
+🔹 Advanced RAG        — hybrid search, re-ranking, multi-hop QA
+🔹 MLOps               — model deployment, monitoring & CI/CD for ML
+🔹 Multi-Agent Systems — orchestrating agent workflows with LangGraph & CrewAI
+```
 
 ---
 
 <div align="center">
-<sub>✨ Driven by curiosity, built with Python, powered by AI.</sub>
-</div>
 
+### 🤝 Let's Build Something Intelligent Together
+
+*Open to internships, research collaborations, and AI/ML projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-mishra-263a97324/)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalmishra230783@acropolis.in)
+
+<br/>
+
+*"The best way to predict the future is to build it — one agent at a time."*
+
+</div>
