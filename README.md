@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-mishra-263a97324/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MishraNehal/)
 [![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalmishra230783@acropolis.in)
-[![Profile Views](https://komarev.com/ghpvc/?username=MishraNehal&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/MishraNehal/)
 
 </div>
 
@@ -22,10 +21,9 @@
 
 - 🎓 Pursuing **B.Tech CSE (AI & ML)** @ AITR, Indore — RGTU Bhopal *(2023–27)*
 - 🤖 Passionate about **Agentic AI**, **RAG Systems**, **LLMs**, and **Generative AI**
-- 🌱 Currently deepening expertise in **LlamaIndex**, **Advanced Agentic Frameworks** & **MLOps**
-- 🔭 Always exploring the cutting edge of **Data Science** and **AI research**
-- 🏛️ **Advisor, IEEE SIGHT AITR** — fostering tech for social good
-- 🥋 Taekwondo & Karate practitioner | 🎵 Retro music enthusiast
+- 🔭 Currently working on projects in **Agentic AI** and **Data Science**
+- 🏛️ **IEEE Member, SIGHT AITR**
+- 🎵 Retro music enthusiast
 - 💬 Ask me about **Python, LLMs, RAG, Multi-Agent Systems, FastAPI**
 - 📫 Reach me at **nehalmishra230783@acropolis.in**
 - 🤝 Open to **Internships** & **Research Collaborations**
@@ -46,7 +44,6 @@
 ### 🤖 AI / ML / GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -64,35 +61,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MishraNehal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraNehal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MishraNehal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-```text
-🔹 LlamaIndex          — advanced document indexing & retrieval
-🔹 Agentic AI          — autonomous, self-directed AI pipelines
-🔹 Advanced RAG        — hybrid search, re-ranking, multi-hop QA
-🔹 MLOps               — model deployment, monitoring & CI/CD for ML
-🔹 Multi-Agent Systems — orchestrating agent workflows with LangGraph & CrewAI
-```
 
 ---
 
